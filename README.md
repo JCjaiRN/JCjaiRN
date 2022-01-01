@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JCjaiRN
 - 👀 I’m interested in  Full stack development 
-- 🌱 I’m currently learning  machine learning, deep learning, data science. 
+- 🌱 I’m currently learning JAVASCRIPT, machine learning, deep learning, data science. 
 - 📫 Reach me at jcrn2k@gmail.com
 
 <!---
