@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Javascript, Machine learning, Flutter.**
 
-- 👨‍💻 All of my projects are available at [https://jcjai.netlify.app/](https://jcjai.netlify.app/)
+- 👨‍💻 Feel Free to See My Portfolio [https://jcjai.netlify.app/](https://jcjai.netlify.app/)
 
 - 💬 Ask me about **Javascript, python, Data science, Flutter**
 
