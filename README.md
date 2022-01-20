@@ -4,7 +4,8 @@ JCjaiRN/JCjaiRN is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm JayaChandran</h1>
-<h3 align="center">A Passionate Full Stack Developer From India</h3>
+<h3 align="center">A Passionate Self-Taught Full Stack Web Developer and a Freelance Software Engineer and a Graphic Designer from India.
+My Passion For Software Lies With Dreaming Up Ideas and Making Them Come True With Elegant Interfaces. I Take Great Care In the Experience, Architecture, and Code Quality of the Things I Build. I Am Also an Open-Source Enthusiast . I Learned a Lot From the Open-Source Community and I Love how Collaboration and Knowledge Sharing Happened through Open-Source.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcjairn&label=Profile%20views&color=0e75b6&style=flat" alt="jcjairn" /> </p>
 
