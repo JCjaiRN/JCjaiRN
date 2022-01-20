@@ -36,3 +36,7 @@ My Passion For Software Lies With Dreaming Up Ideas and Making Them Come True Wi
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcjairn&show_icons=true&locale=en&layout=compact" alt="jcjairn" height="150" width="480"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jcjairn&" alt="jcjairn" /></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"  width="2500"/>
+</p>
