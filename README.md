@@ -23,6 +23,7 @@ My Passion For Software Lies With Dreaming Up Ideas and Making Them Come True Wi
 <p align="left">
 <a href="https://www.linkedin.com/in/jc-jayachandran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayachandran jc" height="30" width="40" /></a>
 <a href="https://instagram.com/j_c_r_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j_c_r_n" height="30" width="40" /></a>
+ <a href="https://twitter.com/jcrn2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="j_c_r_n" height="30" width="40" /></a>
 </p>
 
 
