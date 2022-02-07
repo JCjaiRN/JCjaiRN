@@ -9,21 +9,15 @@ My Passion For Software Lies With Dreaming Up Ideas and Making Them Come True Wi
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcjairn&label=Profile%20views&color=0e75b6&style=flat" alt="jcjairn" /> </p>
 
--  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I’m @JCjaiRN
+-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Feel Free to See My Portfolio [https://jcjai.netlify.app/](https://jcjai.netlify.app/)
 
-- 🌱 I’m currently learning **Javascript, Machine learning, Flutter.**
-
-- 👨‍💻 Feel Free to See My Portfolio [https://jcjai.netlify.app/](https://jcjai.netlify.app/)
-
-- 💬 Ask me about **Javascript, python, Data science, Flutter**
-
-- 📫 How to reach me **Jcrn2k@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jc-jayachandran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayachandran jc" height="30" width="40" /></a>
 <a href="https://instagram.com/j_c_r_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j_c_r_n" height="30" width="40" /></a>
  <a href="https://twitter.com/jcrn2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="j_c_r_n" height="30" width="40" /></a>
+  <a href="jcrn2k@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png" alt="j_c_r_n" height="30" width="40" /></a>
 </p>
 
 
