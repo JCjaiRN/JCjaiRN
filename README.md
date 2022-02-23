@@ -3,7 +3,7 @@
 JCjaiRN/JCjaiRN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm JayaChandran</h1>
+<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm JAYACHANDRAN</h1>
 <h3 align="center">A Passionate Self-Taught Full Stack Web Developer and a Freelance Software Engineer and a Graphic Designer from India.
 My Passion For Software Lies With Dreaming Up Ideas and Making Them Come True With Elegant Interfaces. I Am Also an Open-Source Enthusiast . I Learned a Lot From the Open-Source Community and I Love how Collaboration and Knowledge Sharing Happened through Open-Source.</h3>
 
